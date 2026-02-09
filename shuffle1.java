@@ -22,17 +22,8 @@ class shuffle1 {
             }
         }
         System.out.print(Arrays.toString(shuffled));
-
-
-        /*the second shuffle*/
         
     }
 }
 
 
-/*git config --global user.name "Your Name" # Set global username
-git config --global user.email "you@example.com" # Set global email
-git config --list # View all configurations
-git help # Show help for commands
-
-*/
